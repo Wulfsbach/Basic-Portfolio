@@ -54,7 +54,7 @@ nav li  {
  }
 
 
-section {
+.sectionindex {
 position: relative;
 width:910px;
 top: 50px;
@@ -71,7 +71,7 @@ border-color:#dddddd;
 
 }
 
-body {
+.indexbody {
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/concrete-texture.png");
     margin: 0;
      padding: 0;
@@ -111,7 +111,7 @@ word-spacing:1px;
     word-spacing: 1px;
 }
 
-h2{
+.AboutHead {
     color:#4aaaa5;
     position: relative;
     left: 20px;
