@@ -76,6 +76,7 @@ border-color:#dddddd;
     margin: 0;
      padding: 0;
      text-align: center;
+   
     
 }
 
@@ -206,4 +207,15 @@ margin-bottom: 10px; }
 
 input[type=submit]:hover {
     background-color: teal;
+}
+
+.original {
+    float: left;
+    position: absolute;
+    left: 100px;
+    bottom: 5px;
+}
+.second {
+    
+    position: relative;
 }
