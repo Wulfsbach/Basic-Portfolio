@@ -137,3 +137,73 @@ footer
     font-size: 0.7rem;
     top: 15px;
 }
+
+input[type=submit] {
+    position: relative;
+    width:%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize:none;
+    right:116px;
+    top: 30px;
+}
+.container {
+    position: relative;
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+    width: 30%;
+    margin: auto;
+    top: 40px;
+    border-color:#dddddd;
+    border-style:solid;
+    
+
+
+
+}
+   
+
+    #yname {
+        position: relative;
+        right:35px;
+        margin:auto;
+        width:30%;
+        margin-bottom:10px;
+    }
+    .yourname{
+        position: relative;
+        right:35px;
+    }
+    #email {
+        margin: auto;
+    position: relative;
+right: 18px;  
+width: 30%; 
+margin-bottom: 10px; }
+
+.emailname{
+    position: relative;
+    right: 16px;
+}
+#subject {
+    position:relative;
+    margin:auto;
+    width: 30%;
+    left: 13px;
+    resize:none;
+}
+
+.subjectname {
+    position:relative;
+    bottom: 190px;
+    left:15px;
+}
+
+input[type=submit]:hover {
+    background-color: teal;
+}
